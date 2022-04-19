@@ -7,40 +7,35 @@ intro xxx
 
 blurbs
 
-```markdown
+
 ### Programme 
 
-Talks & Invited Speakers
--
--
--
--
+_Talks & Invited Speakers_
+- Aviad Albert and Francesco Cangemi  **Doing things ProPerly: Using rich representations to study prosody** 
+- Jiyoun Choi and Jonny Jungyun Kim **Some issues in experimental design for investigating speech perception and production**  
+- Philipp Ruhnau and Jieun Song  **Using electroencephalography (EEG) for investigating auditory and language processing**  
+- Jane Setter **Analysing prosodic features of spontaneous speech** 
+- Laurence White **The role of temporal prediction in speech processing** 
 
-### Abstract 
+_Pratical_ 
+- Bodo Winter **Reproducible data science with R and Bayesian mixed models**  
+
+### Abstracts 
+
+To appear 
 
 ### Registration 
 
-# Header 1
-## Header 2
-### Header 3
+To appear 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Organisers 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UKSKprosodynetwork/UKSKprosodynetwork.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Hae-Sung Jeon (University of Central Lancashire, UK), Ho-Young Lee (Seoul National University, South Korea) and Jieun Song (KAIST, South Korea)  
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Acknowledgement 
+
+The UK-South Korea Prosody Network is supported by the Fund for International Collaboration (FIC), UKRI (February 2022 - July 2023, PI: Hae-Sung Jeon, CI: Ho-Young Lee and Jieun Song)  
