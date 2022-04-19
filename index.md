@@ -10,15 +10,21 @@ blurbs
 
 ### Programme 
 
-_Talks & Invited Speakers_
-- Aviad Albert and Francesco Cangemi (IfL Phonetics, University of Cologne, Germany) **Doing things ProPerly: Using rich representations to study prosody** 
-- Jiyoun Choi (Sookmyung Women's University, South Korea) and Jonny Jungyun Kim (Pusan National University, South Korea) **Some issues in experimental design for investigating speech perception and production**  
-- Philipp Ruhnau (University of Central Lancashire, UK) and Jieun Song (KAIST, South Korea) **Using electroencephalography (EEG) for investigating auditory and language processing**  
-- Jane Setter (University of Reading, UK) **Analysing prosodic features of spontaneous speech** 
-- Laurence White (Newcastle University, UK) **The role of temporal prediction in speech processing** 
+_Invited Speakers & Talks_
+- Aviad Albert and Francesco Cangemi (IfL Phonetics, University of Cologne, Germany) 
+**Doing things ProPerly: Using rich representations to study prosody** 
+- Jiyoun Choi (Sookmyung Women's University, South Korea) and Jonny Jungyun Kim (Pusan National University, South Korea) 
+**Some issues in experimental design for investigating speech perception and production**  
+- Philipp Ruhnau (University of Central Lancashire, UK) and Jieun Song (KAIST, South Korea) 
+**Using electroencephalography (EEG) for investigating auditory and language processing**  
+- Jane Setter (University of Reading, UK) 
+**Analysing prosodic features of spontaneous speech** 
+- Laurence White (Newcastle University, UK) 
+**The role of temporal prediction in speech processing** 
 
 _Pratical_ 
-- Bodo Winter (University of Birmingham, UK) **Reproducible data science with R and Bayesian mixed models**  
+- Bodo Winter (University of Birmingham, UK) 
+**Reproducible data science with R and Bayesian mixed models**  
 
 ### Abstracts 
 
@@ -36,6 +42,6 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 Hae-Sung Jeon (University of Central Lancashire, UK), Ho-Young Lee (Seoul National University, South Korea) and Jieun Song (KAIST, South Korea)  
 
 
-### Acknowledgement 
+### Acknowledgements 
 
 The UK-South Korea Prosody Network is supported by the Fund for International Collaboration (FIC), UKRI (February 2022 - July 2023, PI: Hae-Sung Jeon, CI: Ho-Young Lee and Jieun Song)  
