@@ -11,14 +11,14 @@ blurbs
 ### Programme 
 
 _Talks & Invited Speakers_
-- Aviad Albert and Francesco Cangemi  **Doing things ProPerly: Using rich representations to study prosody** 
-- Jiyoun Choi and Jonny Jungyun Kim **Some issues in experimental design for investigating speech perception and production**  
-- Philipp Ruhnau and Jieun Song  **Using electroencephalography (EEG) for investigating auditory and language processing**  
-- Jane Setter **Analysing prosodic features of spontaneous speech** 
-- Laurence White **The role of temporal prediction in speech processing** 
+- Aviad Albert and Francesco Cangemi (IfL Phonetics, University of Cologne, Germany) **Doing things ProPerly: Using rich representations to study prosody** 
+- Jiyoun Choi (Sookmyung Women's University, South Korea) and Jonny Jungyun Kim (Pusan National University, South Korea) **Some issues in experimental design for investigating speech perception and production**  
+- Philipp Ruhnau (University of Central Lancashire, UK) and Jieun Song (KAIST, South Korea) **Using electroencephalography (EEG) for investigating auditory and language processing**  
+- Jane Setter (University of Reading, UK) **Analysing prosodic features of spontaneous speech** 
+- Laurence White (Newcastle University, UK) **The role of temporal prediction in speech processing** 
 
 _Pratical_ 
-- Bodo Winter **Reproducible data science with R and Bayesian mixed models**  
+- Bodo Winter (University of Birmingham, UK) **Reproducible data science with R and Bayesian mixed models**  
 
 ### Abstracts 
 
