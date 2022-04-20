@@ -1,8 +1,18 @@
 # UK-South Korea Prosody Research Network
 
-intro xxx
+This project will establish a new international network of psychologists, linguists, and phoneticians with the common goal of extending our understanding of the human faculty for the production, perception and cognitive processing of speech prosody. This academic network, with core members in the UK and South Korea, will promote and facilitate further cross-linguistic and interdisciplinary research. 
 
-## Workshop I Methodological Advances in Prosody Research
+The objectives of the project are to:
+• support long-term collaboration and exchange between researchers in the UK and South Korea;
+• establish and maintain an interdisciplinary network of researchers to share skills and knowledge in collaborating in speech prosody research;
+• provide training and mentoring opportunities for early career researchers;
+• diversify target languages and populations in prosody research;
+• improve analytical tools and research methods for prosody studies;
+• promote and share good practice in open science;
+• increase the impact of prosody research in pedagogy and other applied areas; and
+• establish a basis for future world-leading research collaborations.
+
+## Workshop I. Methodological Advances in Prosody Research
 28 June - 1 July 2022, Seoul National University, South Korea  
 
 blurbs
