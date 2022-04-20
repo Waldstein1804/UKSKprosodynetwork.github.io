@@ -20,6 +20,19 @@ The objectives of the project are to:
 
 • establish a basis for future world-leading research collaborations.
 
+## Current members
+***Behavioural strand***: Jiyoun Choi (Sookmyung Women's University, South Korea), Jonny Jungyun Kim (Pusan National University, South Korea), John Marsh (UCLan, UK), and Laurence White (Newcastle University, UK) 
+
+***Neurolinguistics strand***: Philipp Ruhnau (UCLan, UK) and Jieun Song (KAIST, South Korea)  
+
+***Linguistic prosody strand***: Hae-Sung Jeon (UCLan, UK), Ho-Young Lee (Seoul National University, South Korea), Jane Setter (University of Reading, UK), Bara'ah Al-dunaibat (UCLan, UK).
+
+***Project advisor***: Bob Ladd (University of Edinburgh, UK)  
+
+***Statistics and methods advisor***: Bodo Winter (Birmingham, UK)
+
+***Research tools and data modelling advisor***s: Aviad Albert (University of Cologne, Germany) and Francesco Cangemi (University of Cologne, Germany)
+
 ## Workshop I. Methodological Advances in Prosody Research
 28 June - 1 July 2022, Seoul National University, South Korea  
 
@@ -28,7 +41,7 @@ blurbs
 
 ### Programme 
 
-_Invited Speakers & Talks_
+_Speakers & Talks_
 - Aviad Albert and Francesco Cangemi (IfL Phonetics, University of Cologne, Germany) 
 **Doing things ProPerly: Using rich representations to study prosody** 
 - Jiyoun Choi (Sookmyung Women's University, South Korea) and Jonny Jungyun Kim (Pusan National University, South Korea) 
@@ -60,6 +73,6 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 Hae-Sung Jeon (University of Central Lancashire, UK), Ho-Young Lee (Seoul National University, South Korea) and Jieun Song (KAIST, South Korea)  
 
 
-### Acknowledgements 
+## Acknowledgements 
 
 The UK-South Korea Prosody Network is supported by the Fund for International Collaboration (FIC), UKRI (February 2022 - July 2023, PI: Hae-Sung Jeon, CI: Ho-Young Lee and Jieun Song)  
