@@ -3,45 +3,35 @@
 This project will establish a new international network of psychologists, linguists, and phoneticians with the common goal of extending our understanding of the human faculty for the production, perception and cognitive processing of speech prosody. This academic network, with core members in the UK and South Korea, will promote and facilitate further cross-linguistic and interdisciplinary research. 
 
 The objectives of the project are to:
-
 • support long-term collaboration and exchange between researchers in the UK and South Korea;
-
 • establish and maintain an interdisciplinary network of researchers to share skills and knowledge in collaborating in speech prosody research;
-
 • provide training and mentoring opportunities for early career researchers;
-
 • diversify target languages and populations in prosody research;
-
 • improve analytical tools and research methods for prosody studies;
-
 • promote and share good practice in open science;
-
 • increase the impact of prosody research in pedagogy and other applied areas; and
-
 • establish a basis for future world-leading research collaborations.
 
 ## Current members
-***Behavioural strand***: Jiyoun Choi (Sookmyung Women's University, South Korea), Jonny Jungyun Kim (Pusan National University, South Korea), John Marsh (UCLan, UK), and Laurence White (Newcastle University, UK) 
+**Behavioural strand:** Jiyoun Choi (Sookmyung Women's University, South Korea), Jonny Jungyun Kim (Pusan National University, South Korea), John Marsh (UCLan, UK), and Laurence White (Newcastle University, UK) 
 
-***Neurolinguistics strand***: Philipp Ruhnau (UCLan, UK) and Jieun Song (KAIST, South Korea)  
+**Neurolinguistics strand:** Philipp Ruhnau (UCLan, UK) and Jieun Song (KAIST, South Korea)  
 
-***Linguistic prosody strand***: Hae-Sung Jeon (UCLan, UK), Ho-Young Lee (Seoul National University, South Korea), Jane Setter (University of Reading, UK), Bara'ah Al-dunaibat (UCLan, UK).
+**Linguistic prosody strand:** Hae-Sung Jeon (UCLan, UK), Ho-Young Lee (Seoul National University, South Korea), Jane Setter (University of Reading, UK), Bara'ah Al-dunaibat (UCLan, UK).
 
-***Project advisor***: Bob Ladd (University of Edinburgh, UK)  
+**Project advisor:** Bob Ladd (University of Edinburgh, UK)  
 
-***Statistics and methods advisor***: Bodo Winter (Birmingham, UK)
+**Statistics and methods advisor:** Bodo Winter (Birmingham, UK)
 
-***Research tools and data modelling advisor***s: Aviad Albert (University of Cologne, Germany) and Francesco Cangemi (University of Cologne, Germany)
+**Research tools and data modelling advisor:** Aviad Albert (University of Cologne, Germany) and Francesco Cangemi (University of Cologne, Germany)
 
 ## Workshop I. Methodological Advances in Prosody Research
-28 June - 1 July 2022, Seoul National University, South Korea  
+##### 28 June - 1 July 2022, Seoul National University, South Korea  
 
-blurbs
-
+TBA
 
 ### Programme 
 
-_Speakers & Talks_
 - Aviad Albert and Francesco Cangemi (IfL Phonetics, University of Cologne, Germany) 
 **Doing things ProPerly: Using rich representations to study prosody** 
 - Jiyoun Choi (Sookmyung Women's University, South Korea) and Jonny Jungyun Kim (Pusan National University, South Korea) 
@@ -59,14 +49,12 @@ _Pratical_
 
 ### Abstracts 
 
-To appear 
+Click [here](https://osf.io/msyf2/).
 
 ### Registration 
 
 To appear 
 
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Organisers 
 
