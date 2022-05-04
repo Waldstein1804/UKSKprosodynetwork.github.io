@@ -26,11 +26,12 @@ The objectives of the project are to:
 **Research tools and data modelling advisor:** Aviad Albert (University of Cologne, Germany) and Francesco Cangemi (University of Cologne, Germany)
 
 ## Workshop I. Methodological Advances in Prosody Research
-##### 28 June - 1 July 2022, Seoul National University, South Korea  
+##### 28 June - 2 July 2022, Seoul National University, South Korea  
 
-TBA
+### Call for student papers
+We are planning a student networking event for postgraduate students to present and discuss their work with the network members and workshop attendees. The event will be on 4th July Monday at Seoul National University. If you would like to deliver a 20-minute presentation (in English), please send an abstract (max 1 page A4 including title, your name(s), affiliation(s), and references, Word file, with 2cm margins, Arial, font size 12pt, Single line spacing) to Hae-Sung Jeon (HJeon1 at uclan.ac.uk) by 5th June. If you cannot physically attend the networking event, online participation is possible from anywhere in the world. The event will be in the morning in Korea. 
 
-### Programme 
+### Programme (click [here](https://mfr.de-1.osf.io/render?url=https://osf.io/h9ycj/?direct%26mode=render%26action=download%26mode=render) for the detailed programme)
 
 - Aviad Albert and Francesco Cangemi (IfL Phonetics, University of Cologne, Germany) 
 **Doing things ProPerly: Using rich representations to study prosody** 
@@ -43,7 +44,7 @@ TBA
 - Laurence White (Newcastle University, UK) 
 **The role of temporal prediction in speech processing** 
 
-_Pratical_ 
+_Pratical_ (Not livestreamed or recorded)
 - Bodo Winter (University of Birmingham, UK) 
 **Reproducible data science with R and Bayesian mixed models**  
 
@@ -53,7 +54,8 @@ Click [here](https://osf.io/msyf2/).
 
 ### Registration 
 
-To appear 
+The number of in-person participants is limited. Information for registration will appear here by 20th May.
+Some presentations will be livestreamd and/or recorded. Please visit this page closer to the workshop dates for more informaiton. For online attedance, registration is not required. 
 
 
 ### Organisers 
