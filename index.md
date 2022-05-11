@@ -26,10 +26,13 @@ The objectives of the project are to:
 **Research tools and data modelling advisor:** Aviad Albert (University of Cologne, Germany) and Francesco Cangemi (University of Cologne, Germany)
 
 ## Workshop I. Methodological Advances in Prosody Research
-##### 28 June - 2 July 2022, Seoul National University, South Korea  
+##### 28 June Tuesday - 4 July Monday 2022, Seoul National University, South Korea  
+Venue information will be sent to face-to-face participants who are registered. 
 
 ### Call for student papers
-We are planning a student networking event for postgraduate students to present and discuss their work with the network members and workshop attendees. The event will be on 4th July Monday at Seoul National University. If you would like to deliver a 20-minute presentation (in English), please send an abstract (max 1 page A4 including title, your name(s), affiliation(s), and references, Word file, with 2cm margins, Arial, font size 12pt, Single line spacing) to Hae-Sung Jeon (HJeon1 at uclan.ac.uk) by 5th June. If you cannot physically attend the networking event, online participation is possible from anywhere in the world. The event will be in the morning in Korea. 
+We are planning a student networking event for postgraduate students to present and discuss their work with the network members and workshop attendees. The event will be on **4th July Monday at Seoul National University. 
+
+If you would like to deliver a 20-minute presentation (in English), please send an abstract (max 1 page A4 including title, your name(s), affiliation(s), and references, Word file, with 2cm margins, Arial, font size 12pt, Single line spacing) to Hae-Sung Jeon (HJeon1 at uclan.ac.uk) by **4th June**. If you cannot physically attend the networking event, online participation is possible from anywhere in the world. The event will be in the morning in Korea. 
 
 ### Programme (click [here](https://mfr.de-1.osf.io/render?url=https://osf.io/h9ycj/?direct%26mode=render%26action=download%26mode=render) for the detailed programme)
 
@@ -37,6 +40,8 @@ We are planning a student networking event for postgraduate students to present 
 **Doing things ProPerly: Using rich representations to study prosody** 
 - Jiyoun Choi (Sookmyung Women's University, South Korea) and Jonny Jungyun Kim (Pusan National University, South Korea) 
 **Some issues in experimental design for investigating speech perception and production**  
+- John Marsh (University of Central Lancashire, UK)
+**The Role of Prosodic Features in Serial Short-term Memory Performance**
 - Philipp Ruhnau (University of Central Lancashire, UK) and Jieun Song (KAIST, South Korea) 
 **Using electroencephalography (EEG) for investigating auditory and language processing**  
 - Jane Setter (University of Reading, UK) 
