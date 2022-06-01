@@ -27,9 +27,9 @@ The objectives of the project are to:
 
 ## Workshop I. Methodological Advances in Prosody Research
 ##### 28 June Tuesday - 4 July Monday 2022, Seoul National University, South Korea  
-Venue information will be sent to face-to-face participants who are registered. 
+Venue information will be sent to face-to-face participants. 
 
-### Call for student papers
+### Call for student/early career researcher papers
 We are planning a student and early career researcher forum for postgraduate students and early career researchers to present and discuss their work with the network members and workshop attendees. The event will be on **4th July Monday at Seoul National University.** 
 
 If you would like to deliver a 20-minute presentation (in English), please send an abstract (max 1 page A4 including title, your name(s), affiliation(s), and references, Word file, with 2cm margins, Arial, font size 12pt, Single line spacing) to Hae-Sung Jeon (HJeon1 at uclan.ac.uk) by **15th June**. If you cannot physically attend the networking event, online participation is possible from anywhere in the world. The event will be in the morning in Korea. We hope that this forum will be a networking opportunity -- the presentation can be about a research plan, a pilot study, or a publication/thesis in preparation.  
@@ -66,9 +66,9 @@ For participating in the practical sessions, you will need to bring your own lap
 ### Registration 
 
 The number of in-person participants is limited to 30. Registration is free and lunch is provided. 
-To register, please compete [this form](https://forms.office.com/r/NpdVWpbk8q).
+To register, please complete [this form](https://forms.office.com/r/NpdVWpbk8q).
 
-Some presentations will be livestreamd and/or recorded. For online attedance, registration is not required. Please visit this page on the workshop day -- you will find a link to the video. 
+Some presentations will be livestreamd and/or recorded. For online participation, registration is not required. Please visit this page on the workshop day -- the link to the video will appear. 
 
 ### Organisers 
 
