@@ -15,13 +15,13 @@ The objectives of the project are to:
 ## Current members
 **Behavioural strand:** Jiyoun Choi (Sookmyung Women's University, South Korea), Jonny Jungyun Kim (Pusan National University, South Korea), John Marsh (UCLan, UK), and Laurence White (Newcastle University, UK) 
 
-**Neurolinguistics strand:** Philipp Ruhnau (UCLan, UK) and Jieun Song (KAIST, South Korea)  
+**Neurolinguistics strand:** Philipp Ruhnau (University of Central Lancashire, UK) and Jieun Song (KAIST, South Korea)  
 
-**Linguistic prosody strand:** Hae-Sung Jeon (UCLan, UK), Ho-Young Lee (Seoul National University, South Korea), Jane Setter (University of Reading, UK), Bara'ah Al-dunaibat (UCLan, UK).
+**Linguistic prosody strand:** Hae-Sung Jeon (University of Central Lancashire, UK), Ho-Young Lee (Seoul National University, South Korea), Jane Setter (University of Reading, UK), Bara'ah Al-dunaibat (UCLan, UK).
 
 **Project advisor:** Bob Ladd (University of Edinburgh, UK)  
 
-**Statistics and methods advisor:** Bodo Winter (Birmingham, UK)
+**Statistics and methods advisor:** Bodo Winter (Birmingham University, UK)
 
 **Research tools and data modelling advisor:** Aviad Albert (University of Cologne, Germany) and Francesco Cangemi (University of Cologne, Germany)
 
@@ -30,11 +30,14 @@ The objectives of the project are to:
 Venue information will be sent to face-to-face participants who are registered. 
 
 ### Call for student papers
-We are planning a student networking event for postgraduate students to present and discuss their work with the network members and workshop attendees. The event will be on **4th July Monday at Seoul National University. 
+We are planning a student and early career researcher forum for postgraduate students and early career researchers to present and discuss their work with the network members and workshop attendees. The event will be on **4th July Monday at Seoul National University.** 
 
-If you would like to deliver a 20-minute presentation (in English), please send an abstract (max 1 page A4 including title, your name(s), affiliation(s), and references, Word file, with 2cm margins, Arial, font size 12pt, Single line spacing) to Hae-Sung Jeon (HJeon1 at uclan.ac.uk) by **4th June**. If you cannot physically attend the networking event, online participation is possible from anywhere in the world. The event will be in the morning in Korea. 
+If you would like to deliver a 20-minute presentation (in English), please send an abstract (max 1 page A4 including title, your name(s), affiliation(s), and references, Word file, with 2cm margins, Arial, font size 12pt, Single line spacing) to Hae-Sung Jeon (HJeon1 at uclan.ac.uk) by **15th June**. If you cannot physically attend the networking event, online participation is possible from anywhere in the world. The event will be in the morning in Korea. We hope that this forum will be a networking opportunity -- the presentation can be about a research plan, a pilot study, or a publication/thesis in preparation.  
 
-### Programme (click [here](https://mfr.de-1.osf.io/render?url=https://osf.io/h9ycj/?direct%26mode=render%26action=download%26mode=render) for the detailed programme)
+
+### Programme (click [here](https://mfr.de-1.osf.io/render?url=https://osf.io/b6skz/?direct%26mode=render%26action=download%26mode=render) for the detailed programme)
+
+_For abstracts, click [here](https://osf.io/msyf2/)._ 
 
 - Aviad Albert and Francesco Cangemi (IfL Phonetics, University of Cologne, Germany) 
 **Doing things ProPerly: Using rich representations to study prosody** 
@@ -47,21 +50,25 @@ If you would like to deliver a 20-minute presentation (in English), please send 
 - Jane Setter (University of Reading, UK) 
 **Analysing prosodic features of spontaneous speech** 
 - Laurence White (Newcastle University, UK) 
+**Open science methods, research ethics and data sharing**
 **The role of temporal prediction in speech processing** 
 
+
 _Pratical_ (Not livestreamed or recorded)
+For participating in the practical sessions, you will need to bring your own laptop. 
 - Bodo Winter (University of Birmingham, UK) 
 **Reproducible data science with R and Bayesian mixed models**  
+- Tae-Jin Yoon (Sungshin Women's University, South Korea)
+**Praat Scripting Basic**  
 
-### Abstracts 
 
-Click [here](https://osf.io/msyf2/).
 
 ### Registration 
 
-The number of in-person participants is limited. Information for registration will appear here by 20th May.
-Some presentations will be livestreamd and/or recorded. Please visit this page closer to the workshop dates for more informaiton. For online attedance, registration is not required. 
+The number of in-person participants is limited to 30. Registration is free and lunch is provided. 
+To register, please compete [this form](https://forms.office.com/r/NpdVWpbk8q).
 
+Some presentations will be livestreamd and/or recorded. For online attedance, registration is not required. Please visit this page on the workshop day -- you will find a link to the video. 
 
 ### Organisers 
 
@@ -70,4 +77,6 @@ Hae-Sung Jeon (University of Central Lancashire, UK), Ho-Young Lee (Seoul Nation
 
 ## Acknowledgements 
 
-The UK-South Korea Prosody Network is supported by the Fund for International Collaboration (FIC), UKRI (February 2022 - July 2023, PI: Hae-Sung Jeon, CI: Ho-Young Lee and Jieun Song)  
+The UK-South Korea Prosody Network is supported by the Fund for International Collaboration (FIC), UKRI (February 2022 - July 2023, PI: Hae-Sung Jeon, CI: Ho-Young Lee and Jieun Song).
+
+
