@@ -32,7 +32,7 @@ Venue information will be sent to face-to-face participants.
 ### Call for student/early career researcher papers
 We are planning a student and early career researcher forum for postgraduate students and early career researchers to present and discuss their work with the network members and workshop attendees. The event will be on **4th July Monday at Seoul National University.** 
 
-If you would like to deliver a 20-minute presentation (in English), please send an abstract (max 1 page A4 including title, your name(s), affiliation(s), and references, Word file, with 2cm margins, Arial, font size 12pt, Single line spacing) to Hae-Sung Jeon (HJeon1 at uclan.ac.uk) by **15th June**. If you cannot physically attend the networking event, online participation is possible from anywhere in the world. The event will be in the morning in Korea. We hope that this forum will be a networking opportunity -- the presentation can be about a research plan, a pilot study, or a publication/thesis in preparation.  
+If you would like to deliver a 20-minute presentation (in English), please send an abstract (max 1 page A4 including title, your name(s), affiliation(s), and references, Word file, with 2cm margins, Arial, font size 12pt, Single line spacing) to Hae-Sung Jeon (HJeon1 at uclan.ac.uk) by **15th June**. If you cannot physically attend the networking event, online participation is possible from anywhere in the world. The event will be in the morning in Korea. We hope that this forum will provide a useful networking opportunity -- the presentation can be about a research plan, a pilot study, or a publication/thesis in preparation.  
 
 
 ### Programme (click [here](https://mfr.de-1.osf.io/render?url=https://osf.io/b6skz/?direct%26mode=render%26action=download%26mode=render) for the detailed programme)
@@ -50,7 +50,7 @@ _For abstracts, click [here](https://osf.io/msyf2/)._
 - Jane Setter (University of Reading, UK) 
 **Analysing prosodic features of spontaneous speech** 
 - Laurence White (Newcastle University, UK) 
-**Open science methods, research ethics and data sharing**
+**Open science methods, research ethics and data sharing**,
 **The role of temporal prediction in speech processing** 
 
 
