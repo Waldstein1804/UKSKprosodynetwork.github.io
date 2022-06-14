@@ -67,6 +67,7 @@ For participating in the practical sessions, you will need to bring your own lap
 
 The number of in-person participants is limited to 30. Registration is free and lunch is provided. 
 To register, please complete [this form](https://forms.office.com/r/NpdVWpbk8q).
+**Registration closes at 11.59pm 20th June 2022 (time in Korea).** 
 
 Some presentations will be livestreamd and/or recorded. For online participation, registration is not required. Please visit this page on the workshop day -- the link to the video will appear. 
 
