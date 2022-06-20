@@ -35,7 +35,7 @@ We are planning a student and early career researcher forum for postgraduate stu
 If you would like to deliver a 20-minute presentation (in English), please send an abstract (max 1 page A4 including title, your name(s), affiliation(s), and references, Word file, with 2cm margins, Arial, font size 12pt, Single line spacing) to Hae-Sung Jeon (HJeon1 at uclan.ac.uk) by **15th June**. If you cannot physically attend the networking event, online participation is possible from anywhere in the world. The event will be in the morning in Korea. We hope that this forum will provide a useful networking opportunity -- the presentation can be about a research plan, a pilot study, or a publication/thesis in preparation.  
 
 
-### Programme (click [here](https://mfr.de-1.osf.io/render?url=https://osf.io/b6skz/?direct%26mode=render%26action=download%26mode=render) for the detailed programme)
+### Programme (click [here](https://osf.io/sj5vr/) for the detailed programme)
 
 _For abstracts, click [here](https://osf.io/msyf2/)._ 
 
