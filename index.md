@@ -36,6 +36,7 @@ If you would like to deliver a 20-minute presentation (in English), please send 
 
 
 ### Programme (click [here](https://osf.io/sj5vr/) for the detailed programme)
+_Some sessions are livestreamed on our [YouTube Channel](https://www.youtube.com/channel/UC2wlP5wYWkbr6dVaQq9f7zA). Use the Live Chat to leave questions or comments. Here is the [livestreaming timetable](https://osf.io/zcp3x/)._ 
 
 _For abstracts, click [here](https://osf.io/msyf2/)._ 
 
@@ -54,12 +55,14 @@ _For abstracts, click [here](https://osf.io/msyf2/)._
 **The role of temporal prediction in speech processing** 
 
 
-_Pratical_ (Not livestreamed or recorded)
-For participating in the practical sessions, you will need to bring your own laptop. 
+_Pratical_ 
 - Bodo Winter (University of Birmingham, UK) 
 **Reproducible data science with R and Bayesian mixed models**  
 - Tae-Jin Yoon (Sungshin Women's University, South Korea)
 **Praat Scripting Basic**  
+- Aviad Albert and Francesco Cangemi (University of Cologne, Germany)
+**Doing things ProPerly: a practical demonstration**  
+
 
 
 
@@ -70,7 +73,6 @@ To register, please complete [this form](https://forms.office.com/r/NpdVWpbk8q).
 **We are full for 29th June - 1st July sessions and we no longer accept registration for these dates.**
 **Registration closes at 11.59pm 20th June 2022 (time in Korea).** 
 
-Some presentations will be livestreamd and/or recorded. For online participation, registration is not required. Please visit this page on the workshop day -- the link to the video will appear. 
 
 ### Organisers 
 
