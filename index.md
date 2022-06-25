@@ -35,8 +35,9 @@ We are planning a student and early career researcher forum for postgraduate stu
 If you would like to deliver a 20-minute presentation (in English), please send an abstract (max 1 page A4 including title, your name(s), affiliation(s), and references, Word file, with 2cm margins, Arial, font size 12pt, Single line spacing) to Hae-Sung Jeon (HJeon1 at uclan.ac.uk) by **15th June**. If you cannot physically attend the networking event, online participation is possible from anywhere in the world. The event will be in the morning in Korea. We hope that this forum will provide a useful networking opportunity -- the presentation can be about a research plan, a pilot study, or a publication/thesis in preparation.  
 
 
-### Programme (click [here](https://osf.io/sj5vr/) for the detailed programme)
-_Some sessions are livestreamed on our [YouTube Channel](https://www.youtube.com/channel/UC2wlP5wYWkbr6dVaQq9f7zA). Use the Live Chat to leave questions or comments. Here is the [livestreaming timetable](https://osf.io/zcp3x/)._ 
+### Programme (Please visit [our OSF repository] (https://osf.io/msyf2/?view_only=c87fe156d1874ffba8a16cc363b225af) for the detailed programme and livestreaming information.)
+
+_Some sessions are livestreamed on our [YouTube Channel](https://www.youtube.com/channel/UC2wlP5wYWkbr6dVaQq9f7zA). Use the Live Chat to leave questions or comments. 
 
 _For abstracts, click [here](https://osf.io/msyf2/)._ 
 
@@ -69,8 +70,6 @@ _Pratical_
 ### Registration 
 
 The number of in-person participants is limited to 30. Registration is free and lunch is provided. 
-To register, please complete [this form](https://forms.office.com/r/NpdVWpbk8q).
-**We are full for 29th June - 1st July sessions and we no longer accept registration for these dates.**
 **Registration closes at 11.59pm 20th June 2022 (time in Korea).** 
 
 
